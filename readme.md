@@ -1,4 +1,4 @@
-# Welcome to the Pig Game V2
+# Welcome to the Dicegame 2.0
 
 - The game has 2 players, playing in rounds.
 - In each turn, a player rolls a dice as many times as they wishes. Each result get added to their CURRENT ROUND score.
